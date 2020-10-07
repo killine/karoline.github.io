@@ -1,3 +1,3 @@
-#  https://killine.github.io/karoline.github.io  (Site Pessoal)
+#  https://killine.github.io/karoline.github.io  (Site pessoal)
 
-#   https://killine.github.io/karoline.github.io/asia/
+#   https://killine.github.io/karoline.github.io/asia/  (Site sobre  a Ásia)
